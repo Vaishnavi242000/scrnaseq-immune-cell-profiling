@@ -61,7 +61,21 @@ Interactive Visualizations (Plotly)
 | 5 | Dendritic cells | GNG11, PPBP | 12 |
 
 ---
+## 🖼️ Results
 
+### QC Metrics
+![QC Violin Plots](figures/violin_qc.png)
+
+### UMAP with Cell Type Annotations
+![UMAP Cell Types](figures/umap_cell_types.png)
+
+### UMAP with Leiden Clusters
+![UMAP Leiden](figures/umap_leiden.png)
+
+### Marker Gene Heatmap
+![Heatmap](figures/heatmap_heatmap.png)
+
+---
 ## 📈 Key Visualizations
 - ✅ QC Violin Plots (genes, counts, mitochondrial %)
 - ✅ Interactive QC Scatter (library size vs gene complexity)
